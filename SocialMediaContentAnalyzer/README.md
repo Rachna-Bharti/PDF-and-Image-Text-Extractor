@@ -88,23 +88,5 @@ Ensure you have the following installed:
 
 ---
 
-## Contributing
-Contributions are welcome! Follow these steps:
-1. Fork the repository.
-2. Create a feature branch.
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes.
-   ```bash
-   git commit -m "Description of changes"
-   ```
-4. Push your branch.
-   ```bash
-   git push origin feature-name
-   ```
-5. Submit a pull request.
-
----
 
 
