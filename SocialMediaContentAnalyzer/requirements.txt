@@ -1,0 +1,4 @@
+Flask==2.0.1
+pytesseract==0.3.8
+pdfminer.six==20201018
+Pillow==8.2.0
